@@ -36,8 +36,6 @@ Workflow     GitHub Actions · CI/CD · ADRs · Figma · Jira
 
 ### Elsewhere
 
-Sainsbury's now; HealthPlan Services and 3M before that — full history and dates on [LinkedIn](https://www.linkedin.com/in/praveenkumarrajaputra).
-
 Azure AI Engineer Associate · AWS Certified Developer – Associate · AWS Certified Solutions Architect – Associate
 
 M.Tech, Information Technology — Vellore Institute of Technology
