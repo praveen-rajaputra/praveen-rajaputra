@@ -1,22 +1,24 @@
 # Praveen Kumar
 
-**Senior Frontend Engineer** — React · Next.js · TypeScript
+**Frontend Engineer** — React · Next.js · TypeScript
 
-I build customer-facing web applications that stay fast, accessible, and maintainable as teams and codebases grow. Currently at Sainsbury's, working on digital platforms used by millions of customers.
+Honestly? I just really like building things.
 
-10+ years across enterprise frontend, most of it spent on the unglamorous parts that decide whether a product holds up: performance budgets, component architecture, test coverage, and release confidence.
+The part that keeps me interested is when an interface finally feels quick and obvious — where nothing gets in the user's way. Getting there is usually a lot of unglamorous work nobody sees: shaving bundle size, untangling a component that grew three arms, writing the test that catches the thing at 2am instead of in production.
+
+I've been doing this for about 10 years, currently at Sainsbury's on digital platforms used by millions of customers. Still enjoy it.
 
 ---
 
-### What I focus on
+### What I care about
 
-- **Performance** — code-splitting, rendering strategy, and CDN optimisation. Cut page load times ~60% on a Next.js rebuild at Sainsbury's.
-- **Component architecture** — modular, reusable UI systems that don't collapse under a year of feature work.
-- **Testing & release confidence** — introduced Jest and Playwright coverage that took a multi-feature release to zero post-release defects.
-- **Accessibility** — WCAG-conformant interfaces, treated as a build requirement rather than an audit item.
-- **Engineering standards** — coding guidelines, review practices, and documentation that raise the floor for the whole team.
+- **Things being fast** — code-splitting, rendering strategy, CDN work. Got page load times down ~60% on a Next.js rebuild.
+- **Code that ages well** — components you can still reason about after a year of features have piled on top.
+- **Shipping without fear** — Jest and Playwright coverage that took a multi-feature release to zero post-release defects.
+- **Accessibility** — building it in from the start, rather than discovering it in an audit.
+- **Leaving things better** — guidelines, reviews, and docs that make the next person's job easier.
 
-### Toolkit
+### What I work with
 
 ```
 Core         React · Next.js · TypeScript · JavaScript (ES6+)
@@ -29,23 +31,24 @@ Cloud        AWS (CloudFront, S3, Lambda, API Gateway) · Azure AD
 Workflow     GitHub Actions · CI/CD · ADRs · Figma · Jira
 ```
 
-### Experience
+### Where I've worked
 
 **Sainsbury's** — Senior Full-Stack Engineer · *Feb 2022 – Present*
-Own technical design and delivery for customer-facing and internal applications. Re-architected hosting from ECS to CloudFront + S3, reducing infrastructure cost ~90% with no loss of scalability.
+Technical design and delivery for customer-facing and internal apps. Moved hosting from ECS to CloudFront + S3 and cut infrastructure cost by roughly 90%.
 
 **HealthPlan Services** — Full-Stack Engineer · *Nov 2018 – Jan 2022*
-Built React interfaces and Node.js services for complex health-plan workflows. Optimised CI/CD pipelines, cutting deployment time roughly in half.
+React interfaces and Node.js services for genuinely messy health-plan workflows. Halved deployment time by reworking the CI/CD pipeline.
 
 **3M** — Front-End Developer · *Dec 2014 – Sept 2018*
-Modernised enterprise web applications used across 10+ European countries. Coordinated a 24-person distributed team and led the Waterfall → Agile transition.
+Modernised enterprise apps used across 10+ European countries. Coordinated a 24-person distributed team through the move from Waterfall to Agile.
 
-### Certifications
+### Also
 
-Microsoft Certified: Azure AI Engineer Associate · AWS Certified Developer – Associate · AWS Certified Solutions Architect – Associate
-
+Azure AI Engineer Associate · AWS Certified Developer – Associate · AWS Certified Solutions Architect – Associate
 M.Tech, Information Technology — Vellore Institute of Technology
+
+Currently poking at AI/ML on the side, mostly to see what it changes about how we build frontends.
 
 ---
 
-📍 United Kingdom · [LinkedIn](https://www.linkedin.com/in/praveenkumarrajaputra)
+📍 United Kingdom · [LinkedIn](https://www.linkedin.com/in/praveenkumarrajaputra) · always happy to talk shop
