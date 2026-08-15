@@ -6,17 +6,21 @@ Honestly? I just really like building things.
 
 The part that keeps me interested is when an interface finally feels quick and obvious — where nothing gets in the user's way. Getting there is usually a lot of unglamorous work nobody sees: shaving bundle size, untangling a component that grew three arms, writing the test that catches the thing at 2am instead of in production.
 
-I've been doing this for about 10 years, currently at Sainsbury's on digital platforms used by millions of customers. Still enjoy it.
+Ten years of that now, currently at Sainsbury's on platforms used by millions of customers. Still enjoy it.
 
 ---
 
 ### What I care about
 
-- **Things being fast** — code-splitting, rendering strategy, CDN work. Got page load times down ~60% on a Next.js rebuild.
-- **Code that ages well** — components you can still reason about after a year of features have piled on top.
-- **Shipping without fear** — Jest and Playwright coverage that took a multi-feature release to zero post-release defects.
-- **Accessibility** — building it in from the start, rather than discovering it in an audit.
-- **Leaving things better** — guidelines, reviews, and docs that make the next person's job easier.
+**Things being fast.** Rendering strategy, code-splitting, CDN work. Took page load times down ~60% on a Next.js rebuild — and cut the hosting bill ~90% along the way by moving off ECS onto CloudFront and S3.
+
+**Code that ages well.** Components you can still reason about after a year of features have piled on top. The real test of an abstraction is whether the next person needs you to explain it.
+
+**Shipping without fear.** Jest and Playwright coverage that took a multi-feature release to zero post-release defects. Good CI isn't overhead — it's what lets you deploy on a Friday and go home.
+
+**Accessibility from the start.** WCAG built in as you go, rather than discovered in an audit three weeks before launch.
+
+**Leaving things better than I found them.** Guidelines, review habits, documentation. I've coordinated 24 people across time zones and led a team through the move from Waterfall to Agile; most of that work is quietly making the good path the easy one.
 
 ### What I work with
 
@@ -31,18 +35,9 @@ Cloud        AWS (CloudFront, S3, Lambda, API Gateway) · Azure AD
 Workflow     GitHub Actions · CI/CD · ADRs · Figma · Jira
 ```
 
-### Where I've worked
+### Elsewhere
 
-**Sainsbury's** — Senior Full-Stack Engineer · *Feb 2022 – Present*
-Technical design and delivery for customer-facing and internal apps. Moved hosting from ECS to CloudFront + S3 and cut infrastructure cost by roughly 90%.
-
-**HealthPlan Services** — Full-Stack Engineer · *Nov 2018 – Jan 2022*
-React interfaces and Node.js services for genuinely messy health-plan workflows. Halved deployment time by reworking the CI/CD pipeline.
-
-**3M** — Front-End Developer · *Dec 2014 – Sept 2018*
-Modernised enterprise apps used across 10+ European countries. Coordinated a 24-person distributed team through the move from Waterfall to Agile.
-
-### Also
+Sainsbury's now; HealthPlan Services and 3M before that — full history and dates on [LinkedIn](https://www.linkedin.com/in/praveenkumarrajaputra).
 
 Azure AI Engineer Associate · AWS Certified Developer – Associate · AWS Certified Solutions Architect – Associate
 M.Tech, Information Technology — Vellore Institute of Technology
