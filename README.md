@@ -1,6 +1,6 @@
 # Praveen Kumar
 
-**Frontend Engineer** — React · Next.js · TypeScript
+**Senior Frontend Engineer** — React · Next.js · TypeScript
 
 Honestly? I just really like building things.
 
