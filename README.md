@@ -6,8 +6,7 @@ Honestly? I just really like building things.
 
 The part that keeps me interested is when an interface finally feels quick and obvious — where nothing gets in the user's way. Getting there is usually a lot of unglamorous work nobody sees: shaving bundle size, untangling a component that grew three arms, writing the test that catches the thing at 2am instead of in production.
 
-Ten years of that now, currently at Sainsbury's on platforms used by millions of customers. Still enjoy it.
-
+Ten years of that now.
 ---
 
 ### What I care about
